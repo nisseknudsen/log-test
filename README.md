@@ -1,1 +1,3 @@
-# Publisher Template for Python
+# Log Tester
+
+Sends log messages and prints (stdout/stderr).
